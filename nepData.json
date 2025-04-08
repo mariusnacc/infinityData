@@ -1,0 +1,12 @@
+{
+  "machines": [
+    {
+      "machineId": 1,
+      "processIds": [3201, 3202]
+    },
+    {
+      "machineId": 2,
+      "processIds": [601, 602]
+    }
+  ]
+}
